@@ -1,0 +1,8 @@
+prefix=/home/omer/catkin_ws/devel
+
+Name: pack_ex
+Description: Description of pack_ex
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

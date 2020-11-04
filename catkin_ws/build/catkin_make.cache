@@ -1,0 +1,2 @@
+pack_ex
+-DCATKIN_DEVEL_PREFIX=/home/omer/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/omer/catkin_ws/install -G Unix Makefiles

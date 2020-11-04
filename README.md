@@ -4,7 +4,7 @@ Andromeda Assessment
 Dependencies:
 pynput library
 
-Executables are now installed in \catkin_ws\src\pack_ex\src:
+Executables are installed in \catkin_ws\src\pack_ex\src:
 Execute in this order:
 
 1)makebag- record user keyboard inputs and mouse position inputs and stores them in a rosbag file (input.bag). Esc to stop.
